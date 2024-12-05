@@ -1,7 +1,3 @@
-# Rule Types Documentation
-
-This document provides an overview of the available rule types, focusing on the user-facing labels and their functionalities. These rules are used for mapping fields in the application.
-
 ## Rule Types
 
 ### Assign
